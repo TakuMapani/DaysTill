@@ -1,4 +1,4 @@
-package com.mawatani.daystill.Database
+package com.mawatani.daystill.database
 
 import androidx.room.*
 import java.util.*

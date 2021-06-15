@@ -1,7 +1,6 @@
-package com.mawatani.daystill.Database
+package com.mawatani.daystill.database
 
 import androidx.room.*
-import kotlinx.coroutines.FlowPreview
 import kotlinx.coroutines.flow.Flow
 
 @Dao
